@@ -1,10 +1,10 @@
-#Etch-A-Sketch
+# Etch-A-Sketch
 
 A Web Development project created by me using
 
-*HTML
-*CSS
-*JavaScript
+* HTML
+* CSS
+* JavaScript
 
 ## Project Demo
-[Etch-A-Sketch Demo](https://shennyj.github.io/etch-a-sketch/)
+[Etch-A-Sketch](https://shennyj.github.io/etch-a-sketch/)
